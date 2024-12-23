@@ -16,3 +16,5 @@ List of Member :
 Youtube Link For Presentation Video : https://youtu.be/LdDwt02ciOU
 
 Notebook Gist : https://gist.github.com/RG102/7658470105ec36cc2ca0609ba2730e02
+
+Presentation Slide : https://osf.io/num5c 
