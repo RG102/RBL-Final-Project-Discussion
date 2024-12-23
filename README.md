@@ -14,3 +14,5 @@ List of Member :
 4. 10223075 - Muhammad Syamsuddiin
 
 Youtube Link For Presentation Video : https://youtu.be/LdDwt02ciOU
+
+Notebook Gist : https://gist.github.com/RG102/7658470105ec36cc2ca0609ba2730e02
